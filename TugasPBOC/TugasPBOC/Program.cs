@@ -1,4 +1,4 @@
-﻿
+
 //karyawan: nama, gaji, kerja(), infoKaryawan()
 //tetap (mewarisi karyawan) : tunjangan, HitungGajiTotal()
 //kontrak (mewarisi karyawan) : durasi, CekKontrak()
@@ -207,6 +207,25 @@ public class Program
         fl.InfoKaryawan();
         fl.AmbilProyek();
         fl.CekKontrak();
+
+        Console.WriteLine("\nSOAL 1 : jalankan method kerja pada manager dan freelance");
+        Console.WriteLine(" ");
+        mng.Kerja();
+        fl.Kerja();
+
+        Console.WriteLine("\nSOAL 2 : jalankan method memimpin manager");
+        mng.Memimpin();
+
+        Console.WriteLine("\nSOAL 3 : panggil nama, gaji, tunjangan manager");
+        mng.InfoKaryawan();
+        Console.WriteLine($"Tunjangan : {mng.tunjangan}");
+
+        Console.WriteLine("\nSOAL 4 : jalankan method belajar magang");
+        mg.Belajar();
+
+        Console.WriteLine("\nSOAL 5 : variabel karyawan, object staff, method kerja");
+        Karyawan coba = new Staff("nat", 70000000, 1500000);
+        coba.Kerja();
 
         Console.ReadLine();
 
