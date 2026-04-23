@@ -1,0 +1,14 @@
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\obj\Debug\net10.0\TugasPBOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\obj\Debug\net10.0\TugasPBOC.AssemblyInfoInputs.cache
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\obj\Debug\net10.0\TugasPBOC.AssemblyInfo.cs
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\obj\Debug\net10.0\TugasPBOC.csproj.CoreCompileInputs.cache
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\bin\Debug\net10.0\TugasPBOC.exe
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\bin\Debug\net10.0\TugasPBOC.deps.json
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\bin\Debug\net10.0\TugasPBOC.runtimeconfig.json
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\bin\Debug\net10.0\TugasPBOC.dll
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\bin\Debug\net10.0\TugasPBOC.pdb
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\obj\Debug\net10.0\TugasPBOC.dll
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\obj\Debug\net10.0\refint\TugasPBOC.dll
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\obj\Debug\net10.0\TugasPBOC.pdb
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\obj\Debug\net10.0\TugasPBOC.genruntimeconfig.cache
+C:\Program Files\smt 2\TugasPBOC\TugasPBOC\obj\Debug\net10.0\ref\TugasPBOC.dll
